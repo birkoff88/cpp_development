@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/C5409261/workspace/softuni/cpp_development/cpp_fundamentals/basic_syntax/lab/month_printer'
+relocations:     []
+...
